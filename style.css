@@ -1,0 +1,45 @@
+body {
+    background-color: yellow;
+}
+
+#start-btn {
+    width: 40%;
+}
+
+#camera {
+    width: 360px;
+    height: 250px;
+    border: 1px solid grey;
+}
+
+#logo_img {
+    width: 150px;
+    border-radius: 100px;
+}
+
+#textbox {
+    width: 300px;
+}
+
+#color-me {
+    background-color: aqua;
+    width: 1500px;
+    margin-left: -180px;
+    font-family: harrington;
+    color: black;
+    font-size: x-large;
+    text-align: center;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+#mic {
+    height: 50px;
+    width: 50px;
+}
+
+#mic:hover {
+    cursor: pointer;
+}
